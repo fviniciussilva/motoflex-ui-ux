@@ -24,3 +24,16 @@ O design da interface, fluxo de telas e arquitetura de informação foram desenv
 
 * **UI/UX Design:** Figma (Wireframing e Prototipagem)
 * **Conceitos Aplicados:** Usabilidade, Design System, Mapeamento de Fluxo do Usuário
+
+  ---
+
+## 🎯 Objetivo do Projeto
+
+Este projeto foi desenvolvido com o propósito de demonstrar minhas habilidades na aplicação de **conceitos de UI/UX** e **design de produto**, conectando a experiência prática da rotina de entregas com soluções tecnológicas funcionais.
+
+### 🧠 Conceitos e Tecnologias Demonstrados:
+
+* **Arquitetura de Informação:** Organização lógica de dados para rápida tomada de decisão em telas móbiles.
+* **Design Centrado no Usuário (UX):** Interfaces pensadas para mitigar distrações e otimizar a usabilidade no tráfego urbano.
+* **Prototipagem de Alta Fidelidade (Figma):** Criação de componentes reutilizáveis, design system e fluxos navegáveis interativos.
+* **Mapeamento de Jornada:** Estruturação de etapas reais do usuário (recebimento de pedido, aceite, navegação e entrega).
